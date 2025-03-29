@@ -89,7 +89,7 @@ img {
 
 .main-page {
     background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-        url(/images/hero-bg-img.jpg);
+        url(../images/hero-bg-img.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
